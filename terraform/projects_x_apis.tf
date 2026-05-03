@@ -16,6 +16,7 @@ locals {
   enabled_apis_on_saintgobain-sdx = [
     "container.googleapis.com",            # CREATED - Builds and manages container-based applications, powered by the open source Kubernetes technology.
     "aiplatform.googleapis.com",
+    "modelarmor.googleapis.com",
   ]
 }
 
